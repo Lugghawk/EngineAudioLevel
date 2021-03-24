@@ -1,0 +1,9 @@
+{
+  "name": "EngineAudioLevel",
+  "description": "Disables the flying noise from Mecha. Planned to make a configurable slider for the engine noise.",
+  "version_number": "0.0.1",
+  "dependencies": [
+    "xiaoye97-BepInEx-5.4.5"
+  ],
+  "website_url": "https://github.com/Lugghawk/EngineAudioLevel"
+}
