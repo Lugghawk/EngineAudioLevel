@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EngineAudio", "EngineAudio\EngineAudio.csproj", "{C914C7A8-3C83-47AA-8365-26B65E5DFE26}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{478001D1-60BE-494F-8BAF-98B1424E98DA}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C914C7A8-3C83-47AA-8365-26B65E5DFE26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C914C7A8-3C83-47AA-8365-26B65E5DFE26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C914C7A8-3C83-47AA-8365-26B65E5DFE26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C914C7A8-3C83-47AA-8365-26B65E5DFE26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {413C2465-5D59-4ECE-BC61-1C7B478840F0}
+	EndGlobalSection
+EndGlobal
